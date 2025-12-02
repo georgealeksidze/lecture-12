@@ -30,13 +30,19 @@
 // <> >= == === შედარების ოპერატორი
 // && <- და and    || <- ან or 
 // alert("Hello World");
+
+
+
 let firstName = "George";
 let lastName = "Aleksidze";
 let age = 41
 let email = "georgealeksidze@hotmail.com";
 let phoneNumber = "+995558153251";
 let isAdult = true;
-console.log(firstname);
-console.log(lastname);
-console.log(age);
-console.log(email);
+console.log ( firstName);
+console.log ( lastName);
+console.log ( age);
+console.log ( email);
+console.error(phoneNumber);
+console.warn(isAdult);
+
