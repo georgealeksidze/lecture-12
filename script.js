@@ -18,9 +18,25 @@
 
 // obj {} ობიექტი
 
+// console.log ("Hello World");
 
-console.log ("Hello World");
+// console.error ("Hello World")
 
-console.error ("Hello World")
+// console.warn ("Hello World")
 
-console.warn ("Hello World")
+// let var const ცვლადები
+
+// + - * / %  არითმეტიკული ოპერატორი
+// <> >= == === შედარების ოპერატორი
+// && <- და and    || <- ან or 
+// alert("Hello World");
+let firstName = "George";
+let lastName = "Aleksidze";
+let age = 41
+let email = "georgealeksidze@hotmail.com";
+let phoneNumber = "+995558153251";
+let isAdult = true;
+console.log(firstname);
+console.log(lastname);
+console.log(age);
+console.log(email);
